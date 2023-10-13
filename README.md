@@ -19,7 +19,7 @@ npm install
 node index.js
 ```
 - The output should be in an ```output``` folder and should look something like this:
-[output](https://imgur.com/3j7xy71.png)
+![output](https://imgur.com/3j7xy71.png)
 - The order of the output should be in the ```filePaths.txt``` file
 
 ## Contact
