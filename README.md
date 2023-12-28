@@ -1,5 +1,5 @@
 # HTML Parser
-This is a simple HTML Parser that I built during my time at MMA Vietnam. Made simply using nodejs and cheerio.
+This is a simple Web Srapper that I built during my time interning at MMA Vietnam. Made simply using nodejs and cheerio.
 
 ## Description
 I started building this tool when I was given a very boring task of copying and pasting data from their MMA Smarties Shortlist page. As I didn't have access to the backend, I built this parser to read the 2 tables in the Shortlist Page and output all of the data in CSV.
